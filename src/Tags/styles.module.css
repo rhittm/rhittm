@@ -3,3 +3,31 @@
   max-width: 1000px;
   margin: 0 auto;
 }
+
+.tags {
+  display: block;
+  width: 100%;
+  min-height: 200px;
+  background: none;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.tags:empty::after {
+  display: inline;
+  content: 'Your hashtags will appear here. Tap to copy them.';
+}
+
+.tags:focus,
+.tags:active {
+  outline: none;
+  border-color: #2684ff;
+  border-width: 2px;
+}
+
+.tags:empty:focus,
+.tags:empty:active {
+  outline: none;
+  user-select: none;
+}
