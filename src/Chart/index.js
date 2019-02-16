@@ -1,8 +1,13 @@
 import React from 'react'
-import { AreaChart, linearGradient, Area, ResponsiveContainer, ReferenceLine } from 'recharts'
-import { labelDay, getOffset } from '../../helpers/days.js'
-import circle from './circle.js'
+import { labelDay, getOffset, circle } from '../debt.js'
 import styles from './styles.module.css'
+import {
+  AreaChart,
+  linearGradient,
+  Area,
+  ResponsiveContainer,
+  ReferenceLine
+} from 'recharts'
 
 const transformData = (data, day) => data[day].map((amount, index) => ({
   "uv": amount
