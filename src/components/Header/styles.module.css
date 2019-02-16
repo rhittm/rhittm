@@ -12,6 +12,7 @@
 .day {
   position: relative;
   bottom: 1px;
+  text-transform: capitalize;
 }
 
 .cat,
