@@ -2,11 +2,11 @@
   "short_name": "Rhittm",
   "name": "Rhittm – your posts are always on time.",
   "icons": [{
-    "src": "./icons/android-chrome-192x192.png",
+    "src": "icons/android-chrome-192x192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "./icons/android-chrome-384x384.png",
+    "src": "icons/android-chrome-384x384.png",
     "sizes": "384x384",
     "type": "image/png"
   }],
