@@ -1,0 +1,20 @@
+.root {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  align-items: baseline;
+}
+
+.day {
+  position: relative;
+  bottom: 1px;
+}
+
+.cat,
+.heading {
+  margin: 10px;
+}
