@@ -1,22 +1,17 @@
 import React from 'react'
 import { AreaChart, linearGradient, Area, ResponsiveContainer, ReferenceLine } from 'recharts'
+import { labelDay, getOffset } from '../../helpers/days.js'
 import circle from './circle.js'
 import styles from './styles.module.css'
-
-const basicTimes = [12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
 const transformData = (data, day) => data[day].map((amount, index) => ({
   "uv": amount
 }))
 
-console.log(basicTimes)
-circle(basicTimes, 4)
-circle(basicTimes, -4)
-
 export default props => (
   <div className={ styles.root }>
     <ResponsiveContainer width="100%" height={ 400 } >
-      <AreaChart data={ transformData(props.data, 'monday') } margin={{
+      <AreaChart data={ circle(transformData(props.data, labelDay(props.date.getDay())), getOffset(props.date)) } margin={{
         top: 0,
         bottom: 0,
         left: -10,
@@ -30,6 +25,7 @@ export default props => (
         </defs>
         <Area type="basis" dataKey="uv" stroke="#feb692" fillOpacity={1} fill="url(#colorUv)" />
         <ReferenceLine x="12" isFront={ true } label="Noon" />
+        <ReferenceLine x={ props.date.getHours() } isFront={ true } label="Now" />
       </AreaChart>
     </ResponsiveContainer>
   </div>
