@@ -13,7 +13,7 @@ class Root extends Component {
       this.setState({
         date: new Date()
       })
-    }, 500)
+    }, 60 * 1000)
   }
 
   render () {
