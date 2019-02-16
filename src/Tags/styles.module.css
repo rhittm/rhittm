@@ -22,8 +22,7 @@
 .tags:focus,
 .tags:active {
   outline: none;
-  border-color: #2684ff;
-  border-width: 2px;
+  box-shadow: 0 0 0 2px #2684ff;
 }
 
 .tags:empty:focus,
