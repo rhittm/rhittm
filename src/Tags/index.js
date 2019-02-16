@@ -77,7 +77,10 @@ class Tags extends Component {
         <h2 className={ styles.heading}>Hashtags</h2>
 
         <Select
-          onTouchStart={ e => e.target.click() }
+          onTouchStart={ e => {
+            e.preventDefault()
+            e.target.click()
+          } }
           options={ getOptions() }
           isMulti
           onChange={ this.updateTags }
