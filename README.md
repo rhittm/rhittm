@@ -1,8 +1,8 @@
-# 🎉 Rhittm
+# 🎉 [Rhittm](https://rhittm.github.io)
 
 Your Instagram posts are always on time! Rhittm provides popularity as a service.
 
-Rhittm analyses Instagram and suggests you when to post to get the most out of it. It also suggests the most popular hashtags to give your creativity a jump-start.
+Rhittm analyses Instagram activity insights and suggests you when to post to get the most out of it. It also suggests the most popular hashtags to give your creativity a jump-start.
 
 ## How it works
 
