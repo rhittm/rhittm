@@ -18,7 +18,7 @@ class Root extends Component {
 
   render () {
     return (
-      <App date={ this.state.date }/>
+      <App date={ this.state.date } />
     )
   }
 }

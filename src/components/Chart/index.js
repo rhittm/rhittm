@@ -8,10 +8,12 @@ const transformData = (data, day) => data[day].map((amount, index) => ({
   "uv": amount
 }))
 
+const getGraphData = (data, date) => circle(transformData(data, labelDay(date.getDay())), getOffset(date))
+
 export default props => (
   <div className={ styles.root }>
-    <ResponsiveContainer width="100%" height={ 400 } >
-      <AreaChart data={ circle(transformData(props.data, labelDay(props.date.getDay())), getOffset(props.date)) } margin={{
+    <ResponsiveContainer width="100%" height={ 300 } >
+      <AreaChart data={ getGraphData(props.data, props.date) } margin={{
         top: 0,
         bottom: 0,
         left: -10,
