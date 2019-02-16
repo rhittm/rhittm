@@ -4,6 +4,9 @@ import styles from './styles.module.css'
 import bulkHashtags from '../hashtags.json'
 import { transformText } from '../debt.js'
 
+import 'react-tippy/dist/tippy.css'
+import { Tooltip } from 'react-tippy'
+
 const getOptions = () => {
   const result = []
 
@@ -72,6 +75,7 @@ class Tags extends Component {
     return (
       <div className={ styles.root }>
         <h2 className={ styles.heading}>Hashtags</h2>
+
         <Select
           onTouchStart={ e => e.target.click() }
           options={ getOptions() }
@@ -79,12 +83,18 @@ class Tags extends Component {
           onChange={ this.updateTags }
           placeholder="Hashtags..."
         />
-        <button
-          className={ styles.tags }
-          onClick={ this.copy }
+        <Tooltip
+          title="Copied!"
+          trigger="click"
+          disabled={ this.state.tags.length === 0 }
         >
-          { this.state.tags.map(tag => '#' + tag + ' ') }
-        </button>
+          <button
+            className={ styles.tags }
+            onClick={ this.copy }
+          >
+            { this.state.tags.map(tag => '#' + tag + ' ') }
+          </button>
+        </Tooltip>
       </div>
     )
   }
