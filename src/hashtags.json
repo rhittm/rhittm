@@ -1,0 +1,328 @@
+{
+	"most_popular": {
+		"most_popular": [
+			"love", "instagood", "me", "cute", "tbt", "photooftheday", "instamood", "iphonesia", "tweegram", "picoftheday", "igers", "girl", "beautiful", "instadaily", "summer", "instagramhub", "iphoneonly", "follow", "igdaily", "bestoftheday", "happy", "picstitch", "jj", "sky", "nofilter", "fashion", "followme", "fun", "sun", "smile", "instagramers", "pretty", "food", "friends", "like", "lol", "nature", "hair", "onedirection", "swag", "beach", "funny", "bored", "life", "cool", "blue", "dog", "pink", "art", "versagram", "sunset", "hot", "photo", "instahub", "my", "family", "throwbackthursday", "cat", "amazing", "girls", "awesome", "clouds", "baby", "party", "red", "repost", "music", "black", "jj_forum", "instalove", "all_shots", "igaddict", "night", "followback", "yummy", "white", "bestfriend", "green", "yum", "instago", "halloween", "school", "eyes", "harrystyles", "sweet"
+		],
+		"flcs": [
+			"f4f", "s4s", "l4l", "c4c", "likeforlike", "likeall", "like4like", "likes4likes", "liking", "instagood", "follow", "followme", "followback", "followforfollow", "follow4follow", "followers", "followher", "follower", "followhim", "followbackteam", "followall", "comment", "comments", "commentback", "comment4comment", "commentbelow", "shoutout", "shoutouts", "shoutoutback"
+		],
+		"likes": [
+			"likeforlike", "likeall", "like4like", "likes4likes", "liking", "instagood", "likesforlikes", "ilike", "liker", "love", "ilikeback", "liketeam", "likealways", "tflers", "likebackteam", "ilikeyou", "ilikeit", "photooftheday", "likes", "likesback", "likesreturned", "likesforlike", "likes4followers", "ilu", "iliketurtles", "l4l", "likeme", "likemeback"
+		],
+		"comments": [
+			"commentbelow", "comment4comment", "comments", "commentback", "c4c", "commentall", "commentalways", "pleasecomment", "commentteam", "commentbackteam", "photooftheday", "commenter", "commenting", "love", "comments4comments", "instagood", "f4f", "s4s", "l4l", "comment", "shoutout", "shoutouts", "shoutoutback", "commentplease", "commentsplease", "pleasecomments", "likecomment", "likecommentfollow", "commentlike"
+		],
+		"follow_me": [
+			"follow", "followme", "followback", "followforfollow", "follow4follow", "followers", "followher", "follower", "followhim", "followbackteam", "followall", "followbackalways", "follows", "following", "followgram", "followalways", "followstagram", "followshoutoutlikecomment", "follownow", "followus", "followmefollowyou", "followmeplease", "followbackinstantly", "f4f", "followmeback", "followyou", "followforlike", "ifollowback", "ifollow"
+		],
+		"shoutout": [
+			"shoutoutback", "shoutout4shoutou", "so", "so4so", "soback", "shoutouter", "shoutouts", "shoutout4shoutout", "s4s", "shoutoutforshoutout", "sobackteam", "thankyou", "shoutmeout", "shout_out", "shouts", "shoutoutpage", "shoutouts_4_pets", "shoutoutme", "shoutoutshere", "shoutouts4free", "shoutouts_4_cats", "shoutoutsforyou", "shoutoutplease", "f4f", "l4l", "c4c", "followhim", "followbackteam", "shoutoutsforfree"
+		],
+		"video": [
+			"videogram", "awesomevideo", "videoshoot", "iphonesia", "myvideo", "love", "videoshow", "cute", "instav", "videooninstagram", "picoftheday", "instamood", "video", "videoclip", "tweegram", "videooftheday", "videography", "photooftheday", "videodiary", "me", "instagramvideos", "instavideo", "instagood", "videogames", "videostar", "videogame", "tbt", "instagramvideo", "videos"
+		]
+	},
+	"animals": {
+		"animals": [
+			"awesome_shots", "nature_shooters", "vida", "fauna", "instagood", "animales", "cute", "love", "nature", "animals", "animal", "pet", "cat", "dogs", "dog", "cats", "photooftheday", "cute", "wild", "animalsofinstagram", "natgeohub", "igs", "petstagram", "petsagram", "animallovers", "insect", "insects", "creepy", "nature_shooters"
+		],
+		"cats": [
+			"cat", "meow", "pussycat", "picpets", "pets", "kittensofinstagram", "sweet", "pet", "catsofinstagram", "kitten", "ilovemypet", "petsagram", "kitty", "ilovecats", "ilovemycat", "instapets", "cats", "animal", "nature", "kittens", "catlover", "life", "instacat", "cutie", "ilovecat", "catstagram", "catlovers", "cutecate", "petstagram"
+		],
+		"dogs": [
+			"doggy", "dog", "cute", "adorable", "precious", "nature", "animal", "animals", "puppy", "puppies", "pup", "petstagram", "picpets", "cutie", "life", "petsagram", "dogs", "instagramdogs", "dogstagram", "dogoftheday", "pet", "pets", "dogsofinstagram", "ilovemydog", "ilovedog", "ilovedogs", "doglover", "doglovers", "tail"
+		],
+		"fish": [
+			"fish", "sea", "food", "water", "dolphin", "whale", "dolphins", "ilovefish", "ilovefishing", "fishingboat", "fishingpole", "underwater", "sealife", "underwaterphotograpy", "underwaterworld", "underwatercamera", "underwaterphoto", "underwatergram", "instafish", "seafood", "seafoods", "fishtagram", "animals", "fisherman", "fishy", "fishyface", "fishys", "coral", "coralreef"
+		],
+		"horse": [
+			"horsebackriding", "fast", "showjumping", "horseshoe", "nature", "pony", "horsey", "instanature", "riding", "animallover", "animal", "naturegram", "naturelovers", "animalsofinstagram", "horse", "horseofinstagram", "horsemask", "horseshow", "animallovers", "horsepower", "ponies", "horseriding", "horses", "instapet", "ride", "instahorse", "petstagram", "horsestagram", "horsejumping", "ponies", "farm", "riders", "wild", "pretty", "horse", "riding", "horses_of_instagram", "instahorses", "jockey", "gallop", "rider", "photooftheday", "mane", "horseshoe", "pony", "horseshow", "good", "nature", "horsestagram", "horsesofinstagram", "grass", "cute", "horses", "ilovemyhorse", "beautiful", "field", "babyhorse", "instagood"
+		]
+	},
+	"social": {
+		"instagram": [
+			"popular", "iphoneography", "like", "instamood", "instalove", "androidography", "photography", "follow", "igers", "contests", "ig", "instafamous", "filter", "instagram", "instagrammers", "instagood", "photooftheday", "hipster", "insta", "comment", "filters", "igaddict", "instadaily", "bestoftheday", "photo", "shoutout", "tflers", "picoftheday", "popularpage"
+		],
+		"kik": [
+			"cute", "kikmeplease", "kikmee", "kikmegirls", "kikmessanger", "kikmeguys", "instamood", "kikster", "picoftheday", "kikmeimbored", "kikmemaybe", "pleasekik", "kikmessenger", "tbt", "kikmessage", "love", "kik", "kikit", "photooftheday", "instagood", "letskik", "kikmenow", "tweegram", "iphonesia", "instagramhub", "instakik", "kikme", "me", "follow"
+		],
+		"snapchat": [
+			"snapchatme", "tflers", "snapchatmeplease", "tweegram", "snapchatster", "snapchatmegirls", "chat", "snapchatmguys", "photooftheday", "cute", "me", "letssnapchat", "snapchat", "snapit", "instamood", "iphoneonly", "beautiful", "picoftheday", "instagood", "snapback", "love", "snap", "instagramhub", "instasnapchat", "iphonesia", "snapchatmenow", "snapchatit", "snapchatmemaybe", "snapchatmeimbored"
+		]
+	},
+	"art": {
+		"art": [
+			"art", "artist", "artistic", "artists", "arte", "dibujo", "myart", "artwork", "illustration", "graphicdesign", "graphic", "color", "colour", "colorful", "painting", "drawing", "drawings", "markers", "paintings", "watercolor", "watercolour", "ink", "creative", "sketch", "sketchaday", "pencil", "cs6", "photoshop", "beautiful"
+		],
+		"black_&_white": [
+			"blancinegre", "monochrome", "bw_lover", "byn", "blancoynegro", "irox_bw", "art", "bw_society", "nero", "blackandwhite", "ic_bw_bw", "bwstyles_gf", "bandw", "beautiful", "perfect", "nb", "noir", "bw", "good", "mono", "bnw", "monoart", "black", "igersbnw", "bwoftheday", "noiretblanc", "noirlovers", "bwbeauty", "white"
+		],
+		"design": [
+			"design", "designer", "designed", "designs", "fashiondesign", "interiordesign", "architecture", "architect", "artist", "classical", "clean", "beautiful", "perfect", "shiny", "amazing", "best", "hairdesign", "craft", "antique", "vintage", "retro", "line", "linedesign", "homestyling", "styling", "style", "stylist", "good", "artwork"
+		],
+		"graphic_design": [
+			"graphicdesign", "design", "designer", "designed", "designs", "graphic", "graphics", "adobe", "illustrator", "photoshop", "cs6", "vector", "professional", "printers", "webdesign", "site", "website", "artist", "classical", "clean", "beautiful", "perfect", "shiny", "amazing", "best", "artistic", "artists", "arte", "colorful"
+		],
+		"hdr": [
+			"hdr_love", "hdrspotters", "str8hdr", "hdriphonegraphy", "hdrstyles_gf", "hdroftheday", "hdrimage", "hdrmania", "photooftheday", "hdrfusion", "hdrama", "hdrfreak", "hdr", "artistic", "hdri", "hdr_lovers", "ihdr", "hdrphoto", "hdrart", "hdr_gallery", "hdriphoneographer", "hdr_edits", "awesome_hdr", "hdrepublic", "instagood", "hdrstyles", "hdrphotography", "amazing", "best"
+		],
+		"photography": [
+			"photography", "photo", "photos", "pic", "pics", "art", "artist", "artistic", "artists", "arte", "dibujo", "myart", "artwork", "color", "all_shots", "exposure", "composition", "focus", "capture", "classical", "clean", "beautiful", "perfect", "shiny", "amazing", "best", "colorful", "illustration"
+		]
+	},
+	"brands": {
+		"brands": [
+			"cute", "instagood", "beautiful", "dandg", "picoftheday", "cocochanel", "girl", "brandonflowers", "love", "dolceandgabbana", "lovely", "branded", "instabrands", "good", "photooftheday", "brands", "me", "brandy", "iphonesia", "chanel", "awesome", "tweegram", "tbt", "brandname", "instamood", "brandon", "brandymelville", "louisvuitton", "brand"
+		],
+		"adidas": [
+			"usa", "free", "awesome", "sneakers", "ball", "fashionweek", "fashions", "basketball", "bags", "fashion", "adidasfashion", "sport", "run", "love", "italy", "l4l", "better", "best", "brands", "adidas", "men", "soccer", "beautiful", "shoes", "me", "sunglasses", "adidasshoes", "style", "cute"
+		],
+		"chanel": [
+			"bag", "chanelwallet", "chanellevernis", "chaneldaily", "levernis", "noir", "chanelmakeup", "summer", "coco", "chanelmademoiselle", "chanel", "chanelbag", "fashionshow", "karllagerfeld", "backstage", "chanelboy", "paris", "cocochanel", "spring", "fashion", "chaneliman", "lagerfeld", "mademoiselle", "parfum", "chanelwestcoast", "parfume", "france", "bags"
+		],
+		"dolce_&_gabbana_(d&g)": [
+			"style", "brand", "fashionshow", "fashionblogger", "gabbana", "fashionweek", "bags", "nails", "dolce", "dolcegabbana", "love", "domenicodolce", "girls", "art", "instagood", "fashionista", "fashion", "lifestyle", "stefanogabbana", "brands", "italy", "me", "dolceandgabbana", "cute", "fashionable", "beauty", "hair", "lagerfeld", "accessori"
+		],
+		"louis_vuitton": [
+			"parfum", "paris", "louisvuittonwoman", "france", "beauty", "karllagerfeld", "hair", "louisvuittonbag", "parfume", "louisvuittonmalletier", "louisvuittonbelt", "louisvuittonparis", "photooftheday", "bags", "cute", "me", "style", "lagerfeld", "nails", "love", "louisvuitton", "fashion", "backstage", "beautiful", "mademoiselle", "stylish", "louisvuittonman", "girl", "fashionshow"
+		],
+		"nike": [
+			"fashion", "girl", "instagood", "swoosh", "tbt", "nike", "sneakers", "beautiful", "sport", "nikefreerun", "style", "nikesport", "soccer", "best", "nikeshoes", "basketball", "cute", "nikeman", "freerun", "photooftheday", "nikegirls", "shoes", "nikewoman", "better", "free", "justdoit", "love", "nikeboys", "me"
+		],
+		"ray_ban": [
+			"raybansofficial", "man", "beauty", "raybans", "fashionshow", "fashions", "sunglasses", "cute", "girl", "tbt", "me", "beautiful", "women", "boys", "men", "love", "woman", "rayban", "brands", "fancy", "fashion", "brand", "instamood", "usa", "boy", "awesome", "style", "photooftheday", "instagood"
+		]
+	},
+	"travel": {
+		"israel": [
+			"igersisrael", "israelinstagram", "instagram_israel", "instagramisrael", "follow", "israeligram", "haifa", "me", "followback", "israel", "ig_israel", "תלאביב", "following", "gf_israel", "eilat", "ישראל", "tlv", "telaviv", "l4l", "jj", "סולמית", "countries", "tlvoftheday", "אופנה", "israeloftheday", "israel2015", "israeli", "עברית", "ig_israel_hanale"
+		],
+		"russia": [
+			"город", "russian", "природа", "cccp", "фото", "russians", "russiangirl", "мир", "russianboy", "russianred", "russia", "класс", "russia_ww", "russianblue", "счастье", "сегодня", "russiandoll", "погода", "лучшее", "russianriver", "кукла", "russiangirls", "любовь", "круто", "red", "ноги", "красиво", "russianfederation", "удивительно"
+		],
+		"uk": [
+			"wales", "gb", "instauk", "igersuk", "british", "igersscotland", "ottish", "uk", "haggismunchers", "uk_photooftheday", "europe", "ig_uk", "country", "ig_europe", "kingdom", "england", "scottish", "unitedkingdom", "london", "britain", "scotland", "ig_ers_uk", "greatbritain", "ireland", "united", "european", "home", "english", "iguk"
+		],
+		"usa": [
+			"stripes", "sanfrancisco", "lasvega", "stars", "washington", "westcoasts", "florida", "newjersey", "dc", "america", "usa", "denver", "miami", "cali", "ny", "culturegram", "unitedstates", "vegas", "american", "newyork", "sf", "california", "eastcoast", "us", "paradise", "country", "texas", "la", "home"
+		],
+		"map": [
+			"geography", "mapastepec", "atlas", "yeartrip", "traesuremap", "crazytrip", "urmap", "maplesyur", "hike", "imap", "maplesyrup", "map", "mapleton", "countrymap", "mapletulip", "tour", "traveling", "maplestory", "lovetohike", "maps", "worldmap", "mapex", "excursion", "mapmaker", "outing", "maple", "trip", "maplegrove", "mymap"
+		]
+	},
+	"fashion": {
+		"fashion": [
+			"fashionblogger", "fashionshow", "fashionista", "fashionable", "fashionweek", "fashiondiaries", "model", "model", "beauti", "photooftheday", "instagood", "cute", "winter", "winter2012collection", "look", "modeling", "style", "accessories", "classy", "nails", "nail", "hair", "hairstyle", "instahair", "makeup", "instamakeup", "cosmetic", "cosmetics", "shoes"
+		],
+		"heels": [
+			"heels", "shoes", "highheels", "high", "shoe", "instashoes", "fashionblogger", "fashionshow", "fashionista", "fashionable", "fashionweek", "fashiondiaries", "model", "model", "beauti", "stilettos", "boots", "footwear", "sandals", "brogues", "laces", "shoesoftheday", "platforms", "sneakerporn", "shoeporn", "fashion", "swag", "instagood", "walklikeus"
+		],
+		"jewelry": [
+			"brandybabe", "cute", "trendy", "clothing", "mint", "lookbook", "accessories", "jewelery", "ring", "braclet", "fashionista", "spring", "style", "beautiful", "ruby", "emerald", "pretty", "trends", "amethist", "rich", "necklace", "jewel", "outfit", "mannequins", "visuals", "earrings", "fashion", "topaz", "jewelry"
+		],
+		"makeup": [
+			"blush", "mascara", "instafashion", "fashionable", "mac", "palettes", "fashiondiaries", "beauty", "eyeshadow", "lip", "outfit", "barrym", "fashionblogger", "lips", "makeupartist", "beautiful", "fashionstyle", "gloss", "eyeliner", "lipgloss", "cosmetics", "fashionstudy", "lipstick", "concealer", "foundation", "powder", "eyes", "eyebrows", "glue"
+		],
+		"men_fashion": [
+			"fashionblogger", "fashionshow", "fashionista", "fashionable", "fashionweek", "jacket", "look", "cool", "streetwear", "model", "style", "musthave", "weheartit", "gentleman", "skirt", "clothes", "clothing", "tshirt", "shoes", "sneakers", "styles", "jeans", "swagg", "guy", "boy", "boys", "man", "fresh", "dope"
+		],
+		"model": [
+			"purse", "love", "instafashion", "beautiful", "style", "dress", "shoes", "eyes", "modelgirl", "girls", "instagood", "heels", "stylish", "pretty", "photooftheday", "girly", "girl", "skirt", "hair", "beauty", "models", "modelguy", "styles", "outfit", "nails", "model", "cute", "fashion", "jewlery"
+		],
+		"nails": [
+			"nails", "nailswag", "shiny", "polish", "nailpolish", "pretty", "girl", "girls", "stylish", "sparkles", "styles", "gliter", "nailart", "fashion", "fashionable", "instafashion", "fashiondiaries", "fashionstyle", "fashionblogger", "naildesign", "nailartclub", "nailartaddicts", "nailartheaven", "nailartaddict", "nailartjunkie", "nailvarnish", "prettynails", "awsome", "beautiful"
+		],
+		"tattoos": [
+			"tat", "instatattoo", "tattooed", "ink", "sleevetattoo", "instagood", "photooftheday", "tatted", "inkedup", "cute", "tattoist", "tflers", "tattoo", "bodyart", "love", "coverup", "inked", "instaart", "amazingink", "tatts", "me", "tattedup", "design", "happy", "handtattoo", "chesttattoo", "art", "tats", "tattoos", ""
+		],
+		"women_fashion": [
+			"accessori", "lifestyle", "instagood", "art", "girls", "hair", "2012", "fashiondiaries", "cute", "awesom", "girly", "pink", "trend", "fashionshow", "fashionblogger", "modeling", "photooftheday", "outfit", "winter", "color", "pretty", "fashionista", "beauti", "models", "fashionable", "fashionweek", "winter2012collection", "accessories", "classy"
+		],
+		"hair_style": [
+			"instafashion", "black", "brunette", "longhairdontcare", "hairideas", "hairdye", "straighthair", "haircolour", "perfectcurls", "haircut", "hairoftheday", "hairdo", "hairofinstagram", "hairstyles", "curly", "coolhair", "fashion", "longhair", "hairfashion", "instahair", "style", "brown", "braid", "haircolor", "braidideas", "blonde", "straight", "hairstyle", "hair"
+		],
+		"blonde": [
+			"gold", "blondehair", "longhair", "blondguy", "hairposts", "hairdo", "goldhair", "hairstyles", "light", "fun", "hairstyle", "haircolour", "hair", "cute", "instahair", "outfit", "fashionstyle", "lighthair", "blondgirl", "fashionable", "haircut", "fashiondiaries", "blonde", "instafashion", "coolhair", "fashion", "hairdye", "haircolor", "beautiful"
+		],
+		"curly": [
+			"black", "frenzied", "haircolour", "colorful", "curls", "hairstyle", "fashion", "beautiful", "diffuse", "curly", "fun", "light", "funny", "hairdye", "curlyhair", "coolhair", "heat", "gamin", "haircut", "blonde", "hairstyles", "blondgirl", "goldhair", "crazy", "lighthair", "afro", "natural", "fashionable", "haircolor"
+		]
+	},
+	"food": {
+		"food": [
+			"instafood", "yum", "yummy", "yumyum", "delicious", "eat", "dinner", "food", "foodporn", "stuffed", "hot", "beautiful", "breakfast", "lunch", "love", "sharefood", "homemade", "sweet", "delicious", "eating", "foodpic", "foodpics", "hungry", "foodgasm", "instafood", "amazing", "instagood", "photooftheday", "fresh"
+		],
+		"dessert": [
+			"cake", "sugar", "dessert", "desserts", "instafood", "food", "sweet", "cakes", "yummy", "yum", "foodporn", "foodpics", "eat", "delicious", "eating", "foodgasm", "foodphotography", "hungry", "tasty", "benandjerrys", "cupcakes", "chocolate", "foodstagram", "nomnom", "cookies", "pancakes", "icecream", "sweettooth", "fat"
+		],
+		"drinks": [
+			"drinkup", "glass", "pub", "bar", "drink", "drinks", "wine", "beer", "beers", "photoofthed", "slurp", "drinking", "alcohol", "yum", "yummy", "cocacola", "nomnomnom", "enjoy", "thirsty", "thirstythursday", "liquor", "foodforfoodies", "getinmybelly", "foodporn", "cocktails", "mmm", "sweets", "hard", "good"
+		]
+	},
+	"weekends": {
+		"christmas": [
+			"deckthehalls", "christmasblues", "decorate", "celebration", "family", "gift", "christmasbook", "decorating", "cantwait", "christmascelebration", "emmanuel", "december", "gifts", "hohoho", "happychristmas", "christmahanakwanzika", "favoritegiftfriday", "festive", "hatechristmas", "celebrate", "holiday", "hannukah", "excited", "feliznavidad", "christmas", "holidays", "happyholidays", "decoration"
+		],
+		"new_years": [
+			"who", "welcome2015", "to", "my", "family", "will", "goodbye2014", "everyone", "so", "made", "love", "the", "can", "how", "hastag", "is", "be", "healthcare", "wonderful2015", "movingforward2014", "word", "new", "stupid", "friends", "every", "2014", "people", "year", "happy"
+		],
+		"valentines_day": [
+			"selfie", "justme", "boyfriend", "smile", "romance", "nofilter", "valentines", "couple", "date", "bff", "me", "i", "girlfriend", "love", "bestfriends", "bestoftheday", "igers", "statigram", "friends", "myself", "withfilter", "happy", "fun", "happyvalentines", "instagood", "my", "singlelife", "instamood", "photooftheday"
+		],
+		"passover": [
+			"my", "instagood", "fuckyeah", "queerseder", "picoftheday", "me", "matzah", "whatjeweating", "lotsamatzah", "iphonesia", "cute", "photooftheday", "tbt", "jewlife", "jewishstuff", "love", "kosher", "tweegram", "instamood", "buonapasqua", "igers", "instadaily", "girl", "people", "lgbtjews", "beautiful", "passover", "singlelife", "oneofeach"
+		],
+		"exhausted": [
+			"nightynight", "star", "moon", "drunk", "sleeptime", "instagooddeepsleep", "broken", "bed", "kisses", "partylightsout", "stars", "drained", "right", "afterparty", "alcohol", "donotwant", "gn", "warm", "tired", "beautiful", "photooftheday", "blanket", "beds", "love", "dark", "night", "goodnight", "inthemood", "exhausted"
+		],
+		"party": [
+			"party", "partying", "fun", "instaparty", "goodtime", "good", "goods", "funtime", "happy", "memories", "smile", "music", "outfit", "chill", "chilling", "kickit", "kickinit", "bestoftheday", "crazy", "feelgoodphoto", "joy", "happyhappy", "enjoy", "love", "lovelife", "smiling", "funtimes", "funny", "feelgood"
+		],
+		"throwback_thursday": [
+			"miss", "throwback", "fun", "instamoment", "party", "old", "tbts", "instamemory", "reminisce", "backintheday", "throwbackthursday", "instagood", "star", "green", "drunk", "reminiscing", "instatbt", "throwbackthursdayyy", "memories", "photooftheday", "instatb", "instaparty", "partying", "throwbackthursdays", "throwbackthursdayy", "tb", "tbt", "back", "moon"
+		]
+	},
+	"mood": {
+		"funny": [
+			"green", "joke", "epic", "lol", "crazy", "fun", "instafun", "witty", "tweegram", "humor", "cash", "jokes", "wacky", "hilarious", "photooftheday", "laughing", "joking", "friends", "instagood", "laugh", "haha", "lmao", "silly", "lmfao", "funnypictures", "instahappy", "funny", "friend", "money"
+		],
+		"good_morning": [
+			"goodmorning", "morning", "mornings", "good", "breakfast", "getup", "early", "sunrise", "sun", "sunlight", "coffee", "work", "dresses", "blanket", "cold", "winter", "rainy", "stunning", "beautiful", "holiday", "saturday", "dayoff", "lingoware", "deepsleep", "warm", "love", "fatigue", "goodday", "sweet"
+		],
+		"good_night": [
+			"beds", "bed", "goodnight", "photooftheday", "star", "instagood", "nightynight", "beautiful", "kisses", "stars", "love", "instagoodnight", "sleeptime", "bedtime", "nights", "hugs", "goodday", "moonlight", "fullmoon", "sleepy", "mybde", "nighttime", "lightsout", "dark", "night", "moon", "gn", "blanket", "drunk"
+		],
+		"love": [
+			"loveudad", "mylove", "lovehim", "tolove", "loveher", "lov", "loveubro", "lovers", "lovemybf", "inlove", "lovelyday", "love4love", "lovley", "freelove", "loveme", "nolove", "lovemydad", "iloveme", "lover", "lovemygf", "loveusis", "love", "gutlover", "loveumom", "uloveme", "loveall", "loveyoutoo", "loveu2", "lomemymom"
+		]
+	},
+	"hobbies": {
+		"book": [
+			"paper", "library", "love", "bestoftheday", "imagine", "book", "photooftheday", "kindle", "page", "literature", "books", "readinglist", "nook", "geek", "plot", "lovebooks", "literate", "text", "pages", "read", "bookworm", "reading", "reader", "author", "story", "words", "climax", "stories", "instagood"
+		],
+		"music": [
+			"artistic", "guitar", "punk", "song", "musician", "recording", "band", "hiphop", "classic", "pop", "rockstar", "musicvideo", "songs", "onedirectioninfection", "musical", "festival", "group", "concert", "bands", "1d", "rocknroll", "rockband", "singer", "hardrock", "guitarist", "pianist", "musicals", "rockstars", "trumpet"
+		],
+		"guitar": [
+			"melody", "shredding", "play", "gibson", "jackson", "fender", "playmusic", "instrument", "guitars", "guitarist", "guitarpick", "guitarplayer", "guitare", "lespaul", "guitar", "rock", "music", "guitarhero", "guitarsolo", "guitaramp", "guitarstrings", "iloveguitars", "ilovemusic", "musician", "musicflow", "musicismylife", "musicnotes", "guitartabs", "musicislife"
+		],
+		"piano": [
+			"keys", "piano", "instrument", "instapiano", "pianogram", "pianist", "sheetmusic", "music", "mozart", "beethoven", "orchestra", "ilovemusic", "ilovepiano", "pianokeys", "pianoman", "pianobar", "pianoforte", "pianosbecometheteeth", "pianorock", "grandpiano", "musical", "musicians", "musica", "musicflow", "musicislife", "musicismylife", "musicnotes", "pianonotes", "igersplay"
+		]
+	},
+	"nature": {
+		"diving": [
+			"snorkeling", "underwater", "adventure", "naturephotography", "2019", "reef", "love", "coral", "instagood", "followme", "marinelife", "beautiful", "sealife", "beach", "bestoftheday", "nightdive", "nature", "sea", "tropic", "ocean", "photooftheday", "scubadiving", "gopro", "scuba", "diving", "fish", "travel", "dive", "peacelovescuba"
+		],
+		"nature": [
+			"weather", "skylovers", "natureporn", "amazing", "skypainters", "gf_daily", "light", "fantastic", "green", "trees", "beautiful", "iphonesia", "naturelovers", "sunset", "clouds", "beach", "photooftheday", "summer", "tree", "instadaily", "cloud", "cloudporn", "natureza", "mothernature", "beauty", "dusk", "red", "pretty", "nature_seekers"
+		],
+		"beach": [
+			"beach", "beachbum", "beachbound", "beaches", "beachday", "beachtime", "beachbody", "beachlife", "beachhouse", "instabeach", "beautiful", "instasummer", "summer", "sun", "sunny", "seaside", "blue", "view", "nature", "clouds", "cloudporn", "fun", "pretty", "sand", "reflection", "amazing", "beauty", "shore", "sky"
+		],
+		"cloud": [
+			"clouds", "cloud", "epicsky", "cloudscape", "cloudporn", "cloud9", "gloomy", "white", "instagood", "skyline", "cloudy", "skysnappers", "ic_sky", "horizon", "cloudsporn", "iskyhub", "crazyclouds", "beautiful", "cloud_skye", "instasky", "blue", "outside", "cloudstagram", "skyporn", "naturecloud_skye", "skyback", "insta_sky_lovers", "skypainters", "skies"
+		],
+		"flower": [
+			"flower", "flowers", "floweroftheday", "flowerporn", "flowerp", "blooms", "ower", "flowermagic", "bloom", "petal", "petals", "nature", "beautiful", "love", "pretty", "plants", "blossom", "sopretty", "spring", "summer", "flowerstagram", "flowersofinstagram", "flowerstyles_gf", "amazing", "trees", "tree", "green", "beauty", "photooftheday", "nature_seekers"
+		],
+		"landscape": [
+			"landscape", "amazing", "view", "trip", "tree", "sky", "mountains", "nature", "landscape_lovers", "landscapelovers", "landscape_lover", "landscapehunter", "landscapes", "landscapestyles", "trees", "treestagram", "treescape", "naturelovers", "naturelover", "nature_seekers", "natureonly", "nature_shooters", "nature_prefection", "naturediversity", "naturephotography", "naturewalk", "naturegram", "naturelove", "naturephoto"
+		],
+		"sea": [
+			"sea", "beach", "sand", "water", "waves", "wave", "wave", "blue", "love", "naturelovers", "seascape", "photooftheday", "beautiful", "cloud", "natureza", "light", "dusk", "skypainters", "clouds", "seaside", "skylovers", "ocean", "amazing", "nature", "ripples", "gorgeous", "instagood", "tweegram", "instagramers"
+		],
+		"sky": [
+			"skyfall", "skyback", "cloud9", "cloudporn", "sky", "blue", "naturecloud_skye", "skyporn", "skypainters", "skies", "amazing", "weather", "clouds", "cloudscape", "cloud", "dusk", "instasky", "skylovers", "cloudstagram", "view", "naturelovers", "gloomy", "red", "white", "outside", "light", "sunset", "epicsky", "bluesky"
+		],
+		"summer": [
+			"summertime", "summer2012", "summer", "summernights", "summerdays", "summerfun", "summer12", "summerlovin", "summerlove", "summer2011", "summernight", "summerfeeling", "summerday", "summerfashion", "summerschool", "beach", "beachday", "sea", "beachlife", "beachtime", "swimsuit", "hot", "sunshine", "sunshineaddicted", "sunshineday", "waves", "ocean", "instasummer", "instasummer"
+		],
+		"sunrise": [
+			"sun", "sunrise", "sunshine", "sky_collection", "twilightscapes", "sunriselovers", "nature", "skylight", "sunrise_sunset_aroundworld", "sunrise", "sunriselover", "sunlover", "beautiful", "beautifulday", "beautifulview", "beautifulshare", "amazingview", "beautifulmorning", "beautifullife", "beautifulworld", "beautifultoday", "beautifulphoto", "beautifulplace", "beautifulscenery", "view", "sunrise_lovers", "sunrise_maddness", "sunrise_sunset_worldwide", "naturelovers"
+		],
+		"trees": [
+			"woods", "ic_trees", "fantastic", "trees", "tree", "branch", "wood", "treeporn", "instadaily", "instanature", "branches", "nature", "forest", "leafs", "scenery", "treesrock", "green", "beautiful", "ilovetrees", "treescollection", "gf_daily", "amazing", "gorgeous", "life", "living", "specialbranch", "cloud", "red", "natureza"
+		],
+		"winter": [
+			"wintertime", "winterwonderland", "winteriscoming", "winter2012", "nature", "winter", "winter2013", "winterbreak", "winterscoming", "winterfashion", "wintergreen", "winterishere", "wintercoat", "winterclothes", "could", "coulds", "cloudy", "cloudscape", "cloud_skye", "couldlovers", "cloudyday", "rain", "snow", "snowman", "pond", "nosun", "cold", "ice", "icy"
+		]
+	},
+	"people": {
+		"people": [
+			"people", "boy", "boys", "man", "men", "guys", "guy", "cute", "hot", "love", "girl", "girls", "girlsday", "girlsbestfriend", "girlswhosmokeweed", "mouth", "hunk", "swag", "sexy", "cool", "kik", "eyes", "friends", "face", "girlsnight", "hair", "bored", "portrait", "bab"
+		],
+		"baby": [
+			"eyes", "family", "babysister", "love", "baby", "babysitting", "friends", "goodtime", "fun", "cute", "babyswag", "babysis", "babys", "my", "sleepy", "sweet", "bad", "awesome", "instakids", "instababies", "girls", "instagood", "smile", "cool", "sleep", "face", "kid", "babyshower", "kids"
+		],
+		"boyfriend": [
+			"funny", "ex", "cool", "smiling", "myboyfriend", "hair", "enjoy", "feelgood", "face", "mouth", "boy", "sexy", "boys", "eyes", "hunk", "boyfriend", "funtimes", "kik", "bored", "boyfriends", "man", "bab", "love", "lovelife", "portrait", "men", "swag", "friends", "guy"
+		],
+		"boys": [
+			"boy", "boys", "man", "men", "guys", "guy", "cute", "hot", "love", "me", "handsome", "picoftheday", "photooftheday", "instagood", "fun", "smile", "dude", "mylife", "hair", "model", "male", "malemodel", "abs", "hunk", "swag", "sexy", "cool", "kik", "eyes"
+		],
+		"family": [
+			"awesome", "dad", "goodtime", "happy", "sis", "life", "mother", "bro", "guy", "fam", "love", "smile", "siblings", "mom", "instagood", "photooftheday", "father", "family", "fun", "brother", "children", "brothers", "related", "sisters", "sister", "cute", "guys", "kids", "familytime"
+		],
+		"friends": [
+			"friend", "friends", "fun", "people", "boy", "boys", "man", "men", "guys", "awesome", "goodtime", "guy", "cute", "hot", "love", "girl", "girls", "live", "forever", "smile", "bff", "bf", "gf", "best", "bestfriend", "lovethem", "bestfriends", "goodfriends", "friendship"
+		],
+		"gays": [
+			"gayboy", "gaylife", "gaysexy", "homotography", "igers", "love", "beaufiful", "hot", "pink", "loveman", "imgay", "boy", "smile", "boys", "gay", "instaselfie", "singlegay", "gaybeard", "funtimes", "loveboys", "happy", "instagay", "gayteen", "gays", "homme", "gaybear", "gayhot", "cute", "me"
+		],
+		"girlfriend": [
+			"girl", "girlfriends", "cute", "sweet", "kik", "girlsgeneration", "girlsgoneweed", "hunk", "sexy", "girlstuff", "portrait", "girls", "face", "lips", "eyes", "cool", "beauty", "girlfriend", "friend", "girlsnight", "bab", "girlsnightout", "friends", "hot", "love", "bored", "swag", "mygirlfriend", "hair"
+		],
+		"girls": [
+			"girl", "girls", "girlsday", "girlsbestfriend", "girlswhosmokeweed", "mouth", "adorable", "sexy", "fine", "swag", "sweet", "lips", "girlswithpiercings", "friends", "face", "girlsnight", "hair", "hot", "girlswithtattoos", "beauty", "girlsgeneration", "cool", "girlsgoneweed", "girlstuff", "girlsnightout", "eyes", "women", "heart", "love"
+		],
+		"hippie": [
+			"whatsyourfavorite", "summerslimdown", "figure", "fitchick", "flowerpower", "curls", "happiness", "sunshine", "lovinglife", "feelgood", "lanadelrey", "tumblrhipster", "curlyhair", "yingandyang", "summertime", "rushpopup", "longhair", "healthier", "marinadiamandis", "i", "rockstud", "sun", "natural", "yang", "instastyle", "thats", "redhead", "vibes", "skyferreira"
+		]
+	},
+	"seasons": {
+		"fall": [
+			"fall", "seasons", "orange", "red", "leaf", "autumnweather", "instagood", "love", "igers", "leaves", "tbt", "tflers", "colorful", "cute", "iphonesia", "season", "picoftheday", "autumn", "nature", "me", "foliage", "instaautumn", "instamood", "girl", "photooftheday", "instafall", "fallweather", "tweegram", "falltime"
+		],
+		"spring": [
+			"leaves", "season", "cute", "orange", "tweegram", "picoftheday", "tbt", "red", "leaf", "autumnweather", "photooftheday", "igers", "girl", "fallweather", "instamood", "nature", "iphonesia", "beautiful", "fall", "autumn", "falltime", "instafall", "colorful", "instagood", "foliage", "instaautumn", "seasons", "tflers", "love"
+		],
+		"summer": [
+			"clearsky", "instamood", "warm", "fall", "summertime", "tflers", "beautiful", "clearskys", "summer", "summertimeshine", "bluesky", "hot", "me", "weather", "seasons", "instasummer", "instagood", "sunshine", "fun", "summerweather", "cute", "sun", "instafall", "vacationtime", "nature", "sky", "photooftheday", "season", "sunny"
+		],
+		"winter": [
+			"instawinter", "instasnow", "holidayseason", "christmas", "water", "nature", "winter", "snow", "cold", "season", "blizzard", "holidays", "rainyday", "pouring", "rain", "ice", "seasons", "cloud", "raining", "instagood", "cloudporn", "photooftheday", "wintertime", "snowing", "rainydays", "staywarm", "cloudy", "snowflakes", "clouds"
+		]
+	},
+	"sports": {
+		"sports": [
+			"crowd", "score", "sports", "fitness", "gym", "train", "health", "sportsbrav", "winner", "trainers", "best", "trainstation", "somuchfun", "training", "loveit", "traintracks", "justdoit", "active", "excercise", "instasport", "sportscar", "sporty", "workout", "healthy", "healthyliving", "healthyeating", "healthyfood", "healthylifestyle", "fitnessmodel"
+		],
+		"basketball": [
+			"crowd", "score", "sports", "fitness", "gym", "train", "health", "sportsbrav", "slamdunk", "orange", "bounce", "throw", "court", "board", "nba", "basketball", "basket", "ball", "sport", "net", "bball", "team", "player", "basketballneverstops", "bbn", "kentucky", "lakers", "lakersnation", "wnba"
+		],
+		"body": [
+			"body", "strong", "tattoos", "beautiful", "healthy", "gym", "smile", "igfit", "trainer", "firm", "fat", "fashion", "skinny", "mini", "workout", "bogo", "mermaidsforlife", "harry", "naturalhairproducts", "naturalhair", "boys", "love", "sheamoisture4u", "weight", "tan", "fitfluential", "fitspo", "happy", "watch"
+		],
+		"cars": [
+			"vehicles", "rims", "driver", "exoticcars", "highway", "road", "wheels", "exotic", "drive", "rim", "cars", "wheel", "race", "tire", "street", "muffler", "racing", "exoticcar", "freeway", "tires", "sportscars", "speed", "vehicle", "horsepower", "spoiler", "ride", "engine", "car", "sportscar"
+		],
+		"running": [
+			"instarun", "workout", "photooftheday", "cardio", "fitness", "runner", "fit", "runhappy", "instagood", "furtherfasterstronger", "seenonmyrun", "runchat", "training", "marathon", "happyrunner", "trailrunning", "score", "instafit", "sports", "runners", "runtoinspire", "time2run", "healthyfood", "instarunner", "running", "trailrun", "run", "workouttime", "trailrunner"
+		],
+		"swimming": [
+			"crowd", "score", "sports", "fitness", "gym", "train", "health", "healthy", "swimming", "swim", "water", "swimmingpool", "swimmer", "watersport", "watersports", "pool", "wet", "sport", "fit", "swimsuit", "fast", "fun", "relaxing", "floating", "somuchfun", "excerise", "swimmers", "blue", "chlorine"
+		],
+		"yoga": [
+			"yogapose", "technique", "parsvabakasana", "yogafit", "instayoga", "yogaplay", "photobomb", "ekapadakoundinyasana", "yogapractice", "yogalove", "yogachallenge", "yogagram", "yogastretch", "lowbackstrength", "sidecrow", "practiceandalliscoming", "bendyyogisflow", "yogaforlovers", "yogaaddict", "yogini", "yogahigh", "swimming", "igyogafam", "igyoga", "breaststroke", "yogalife", "inspiredyogis", "butterfly", "yogagirl"
+		]
+	},
+	"urban": {
+		"architecture": [
+			"geometry", "minimal", "beautiful", "perspective", "architectures", "city", "geometric", "cities", "style", "architettura", "primeshots", "ic_architecture", "urban", "building", "composition", "urbano", "archidaily", "arquitectura", "buildings", "instadaily", "design", "architectureporn", "architecturelovers", "pattern", "town", "abstract", "lines", "instagood", "architecture"
+		],
+		"urban": [
+			"urban", "urbanart", "urbanoutfitters", "urbandecay", "urbangangfamily", "urbanexploration", "urbano", "building", "buildings", "buildinglover", "buildingstyles_gf", "buildingporn", "streelight", "editicio", "town", "skyscraper", "city", "architecture", "udog_public", "ciudad", "arquitectura", "rue", "architettura", "design", "minimal", "cities", "cities", "streetart", "street"
+		]
+	}
+}
