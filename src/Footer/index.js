@@ -5,7 +5,7 @@ import { ReactComponent as Cat } from './cat.svg'
 export default props => (
   <div className={ styles.root }>
     <p className={ styles.text }>
-      Rhittm suggests you when it's the best time to post on Instagram.
+      <b>Rhittm</b> suggests you when it's the best time to post on Instagram.
     </p>
     <p className={ styles.text }>
       We also suggest the hottest, most popular hashtags so you can boost your views instantly.
