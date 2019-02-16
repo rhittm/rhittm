@@ -19,4 +19,4 @@ We don't store your data. At all. We store absolutely nothing. You don't even ne
 ## Mentions
 
  - Amazing cat logo – [Shannon E. Thomas](https://www.toicon.com/authors/shannon)
- - Landing page and illustrations — [Evie](https://undraw.co/)
+ - Landing page and illustrations – [Evie](https://undraw.co/)
