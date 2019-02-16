@@ -17,7 +17,11 @@
   text-transform: capitalize;
 }
 
-.cat,
+.cat {
+  margin: 10px;
+}
+
 .heading {
   margin: 10px;
+  margin-left: 0;
 }
