@@ -1,6 +1,50 @@
 .root {
-  padding: 20px;
+  padding: 10px;
   margin: 0 auto;
+  margin-bottom: 20px;
   max-width: 1000px;
   width: 100%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cat,
+.by,
+.author,
+.heading {
+  display: inline-block;
+  vertical-align: baseline;
+  margin: 5px;
+}
+
+.cat {
+  position: relative;
+  bottom: -5px;
+}
+
+.text {
+  margin: 10px;
+}
+
+.text + .text {
+  margin-top: 20px;
+}
+
+.logo {
+  margin: 5px;
+}
+
+.links {
+  margin: 10px;
+  text-align: right;
+  list-style: none;
+}
+
+.link {
+  padding: 0;
+  line-height: 1.5;
 }
