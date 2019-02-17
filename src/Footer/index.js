@@ -22,6 +22,9 @@ export default props => (
           <a href="https://github.com/rhittm" target="_blank" rel="noopener noreferrer">GitHub</a>
         </li>
         <li className={ styles.link }>
+          <a href="https://www.patreon.com/uyouthe" target="_blank" rel="noopener noreferrer">Patreon</a>
+        </li>
+        <li className={ styles.link }>
           <a href="https://rhittm.github.io" target="_blank" rel="noopener noreferrer">About</a>
         </li>
       </ul>
