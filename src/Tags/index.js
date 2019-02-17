@@ -3,7 +3,7 @@ import Select from 'react-select'
 import Preset from '../Preset'
 import styles from './styles.module.css'
 import bulkHashtags from '../hashtags.json'
-import { transformText, getTagsByCategories, getOptions } from '../debt.js'
+import { getTagsByCategories, getOptions } from '../debt.js'
 
 class Tags extends Component {
   constructor (props) {
