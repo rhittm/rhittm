@@ -1,5 +1,5 @@
-import React from 'react'
-import { labelDay, getOffset, circle } from '../debt.js'
+import React, { Component } from 'react'
+import { getGraphData, getSunriseAndSunset } from '../debt.js'
 import styles from './styles.module.css'
 import {
   AreaChart,
@@ -9,31 +9,67 @@ import {
   ReferenceLine
 } from 'recharts'
 
-const transformData = (data, day) => data[day].map((amount, index) => ({
-  "uv": amount
-}))
+const chartMargin = {
+  top: 0,
+  bottom: 0,
+  left: -10,
+  right: 0
+}
 
-const getGraphData = (data, date) => circle(transformData(data, labelDay(date.getDay())), getOffset(date))
+class Chart extends Component {
+  constructor (props) {
+    super (props)
+    
+    this.state = {}
 
-export default props => (
-  <div className={ styles.root }>
-    <ResponsiveContainer width="100%" height={ 300 } >
-      <AreaChart data={ getGraphData(props.data, props.date) } margin={{
-        top: 0,
-        bottom: 0,
-        left: -10,
-        right: 0
-      }}>
-        <defs>
-          <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="5%" stopColor="#feb692" stopOpacity={ 0.8 } />
-            <stop offset="95%" stopColor="#fa7268" stopOpacity={ 0 } />
-          </linearGradient>
-        </defs>
-        <Area type="basis" dataKey="uv" stroke="#feb692" fillOpacity={1} fill="url(#colorUv)" />
-        <ReferenceLine x="12" isFront={ true } label="Noon" />
-        <ReferenceLine x={ props.date.getHours() } isFront={ true } label="Now" />
-      </AreaChart>
-    </ResponsiveContainer>
-  </div>
-)
+    getSunriseAndSunset(this.props.date).then(times => {
+      this.setState(times)
+    })
+  }
+
+  render () {
+    return (
+      <ResponsiveContainer
+        width="100%"
+        height={ 300 }
+      >
+        <AreaChart
+          data={ getGraphData(this.props.data, this.props.date) }
+          margin={ chartMargin }
+        >
+          <defs>
+            <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="5%" stopColor="#feb692" stopOpacity={ 0.8 } />
+              <stop offset="95%" stopColor="#fa7268" stopOpacity={ 0 } />
+            </linearGradient>
+          </defs>
+          <Area
+            type="basis"
+            dataKey="uv"
+            stroke="#feb692"
+            fill="url(#colorUv)"
+          />
+          <ReferenceLine
+            className={ styles.sunrise }
+            x={ this.state.sunrise }
+            isFront={ true }
+            label="🌞"
+          />
+          <ReferenceLine
+            className={ styles.sunset }
+            x={ this.state.sunset }
+            isFront={ true }
+            label="🌚"
+          />
+          <ReferenceLine
+            x={ this.props.date.getHours() }
+            isFront={ true }
+            label="🐱"
+          />
+        </AreaChart>
+      </ResponsiveContainer>
+    )
+  }
+}
+
+export default Chart
