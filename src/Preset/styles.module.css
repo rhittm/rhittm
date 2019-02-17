@@ -4,6 +4,14 @@
   position: relative;
 }
 
+.root.inline {
+  display: inline-block;
+  width: initial;
+  height: initial;
+  position: relative;
+  vertical-align: middle;
+}
+
 .pearl {
   display: block;
   width: 100%;
@@ -13,6 +21,13 @@
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 40px;
+}
+
+.inline .pearl {
+  display: inline-block;
+  width: initial;
+  height: initial;
+  padding: 20px;
 }
 
 .pearl:empty::after {

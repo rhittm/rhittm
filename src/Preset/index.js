@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import 'react-tippy/dist/tippy.css'
 import { Tooltip } from 'react-tippy'
 import styles from './styles.module.css'
+import decide from 'decider'
 
 class Preset extends Component {
   constructor (props) {
@@ -24,7 +25,10 @@ class Preset extends Component {
 
   render () {
     return (
-      <div className={ styles.root }>
+      <div className={ decide(styles, {
+        root: true,
+        inline: this.props.inline
+      }) }>
         <Tooltip
           title="Copied!"
           trigger="click"
