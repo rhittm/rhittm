@@ -1,0 +1,43 @@
+.root {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.pearl {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: none;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 40px;
+}
+
+.pearl:empty::after {
+  display: inline;
+  content: 'Your hashtags will appear here. Tap to copy them.';
+}
+
+.pearl:focus,
+.pearl:active {
+  outline: none;
+  box-shadow: 0 0 0 2px #2684ff;
+}
+
+.pearl:empty:focus,
+.pearl:empty:active {
+  outline: none;
+  user-select: none;
+}
+
+.ghost {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+  opacity: 0;
+}

@@ -4,8 +4,7 @@ import styles from './styles.module.css'
 import bulkHashtags from '../hashtags.json'
 import { transformText } from '../debt.js'
 
-import 'react-tippy/dist/tippy.css'
-import { Tooltip } from 'react-tippy'
+import Preset from '../Preset'
 
 const getOptions = () => {
   const result = []
@@ -49,7 +48,6 @@ class Tags extends Component {
     }
 
     this.updateTags = this.updateTags.bind(this)
-    this.copy = this.copy.bind(this)
   }
 
   updateTags (newValue) {
@@ -59,41 +57,19 @@ class Tags extends Component {
     })
   }
 
-  copy (e) {
-    const tags = e.target.innerHTML
-    if (tags.length > 0) {
-      const ghost = document.createElement('textarea')
-      ghost.value = tags
-      document.body.appendChild(ghost)
-      ghost.select()
-      document.execCommand('copy')
-      document.body.removeChild(ghost)
-    }
-  }
-
   render () {
     return (
       <div className={ styles.root }>
         <h2 className={ styles.heading}>Hashtags</h2>
-
         <Select
           options={ getOptions() }
           isMulti
           onChange={ this.updateTags }
           placeholder="Hashtags..."
         />
-        <Tooltip
-          title="Copied!"
-          trigger="click"
-          disabled={ this.state.tags.length === 0 }
-        >
-          <button
-            className={ styles.tags }
-            onClick={ this.copy }
-          >
-            { this.state.tags.map(tag => '#' + tag + ' ') }
-          </button>
-        </Tooltip>
+        <Preset>
+          { this.state.tags.map(tag => '#' + tag + ' ') }
+        </Preset>
       </div>
     )
   }
