@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "decider": "github:uyouthe/decider",
     "modern-normalize": "^0.5.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
