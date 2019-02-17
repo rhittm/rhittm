@@ -11,8 +11,7 @@ class Header extends Component {
 
   componentDidMount () {
     tilt.init(this.ref.current, {
-      reverse: true,
-      perspective: 100
+      perspective: 30
     })
   }
 
