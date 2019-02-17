@@ -34,6 +34,7 @@ class Preset extends Component {
             className={ styles.pearl }
             onClick={ this.copy }
             ref={ this.button }
+            data-empty={ this.props['data-empty'] || '+' }
           >
             { this.props.children }
           </button>

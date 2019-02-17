@@ -103,3 +103,34 @@ export const getRoughSunriseAndSunset = date => calculateSunriseAndSunset(date, 
   lat: 0,
   lng: 15 * Math.abs(getOffset(date) - 1)
 })
+
+
+// transform hashtags to react-select options
+export const getOptions = bulkHashtags => {
+  const result = []
+
+  Object.keys(bulkHashtags).forEach(category => {
+    result.push({
+      label: transformText(category),
+      options: Object.keys(bulkHashtags[category]).map(subcategory => ({
+        value: subcategory,
+        label: transformText(subcategory)
+      }))
+    })
+  })
+
+  return result
+}
+
+
+// get 'amount' of random hashtags by array of categories
+export const getTagsByCategories = (bulkHashtags, categories, amount) => {
+  let flatHashtags = {}
+
+  Object.keys(bulkHashtags).forEach(category => {
+    Object.assign(flatHashtags, bulkHashtags[category])
+  })
+
+  const tags = categories.map(category => flatHashtags[category]).flat()
+  return tags.sort(() => Math.random() - Math.random()).slice(0, amount || 30)
+}

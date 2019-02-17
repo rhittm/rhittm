@@ -17,7 +17,7 @@
 
 .pearl:empty::after {
   display: inline;
-  content: 'Your hashtags will appear here. Tap to copy them.';
+  content: attr(data-empty);
 }
 
 .pearl:focus,
