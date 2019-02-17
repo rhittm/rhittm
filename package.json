@@ -10,6 +10,7 @@
     "react-select": "^2.0.0-beta.7",
     "react-tippy": "^1.2.3",
     "recharts": "^1.5.0",
+    "suncalc": "^1.8.0",
     "vanilla-tilt": "^1.6.1"
   },
   "scripts": {
