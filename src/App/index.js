@@ -3,6 +3,7 @@ import styles from './styles.module.css'
 import Chart from '../Chart'
 import Header from '../Header'
 import Tags from '../Tags'
+// import Presets from '../Presets'
 import Footer from '../Footer'
 import data from '../popularity.json'
 import { labelDay } from '../debt.js'
@@ -29,6 +30,7 @@ class Root extends Component {
           <Header day={ labelDay(this.state.date.getDay()) }/>
           <Chart data={ data } date={ this.state.date } />
           <Tags />
+          {/* <Presets /> */}
         </div>
         <Footer />
       </main>
