@@ -72,21 +72,34 @@ const locateNative = new Promise(
 )
 
 
-// get sunrise and sunset times
-export async function getSunriseAndSunset (date) {
-  // if user denied geolocation, calculate approximate times based on timezone
-  const position = await locateNative.then(pos => ({
-    lat: pos.coords.latitude,
-    lng: pos.coords.longitude
-  })).catch(() => ({
-    lat: 0,
-    lng: 15 * Math.abs(getOffset(date) - 1)
-  }))
-
+// calculate sunrise and sunset based on date
+const calculateSunriseAndSunset = (date, position) => {
   const times = suncalc.getTimes(date, position.lat, position.lng)
-
   return {
     sunrise: times.sunrise.getHours(),
     sunset: times.sunset.getHours()
   }
 }
+
+
+// get sunrise and sunset times based on native geolocation
+export async function getSunriseAndSunset (date) {
+  let position = {}
+  try {
+    position = await locateNative.then(pos => ({
+      lat: pos.coords.latitude,
+      lng: pos.coords.longitude
+    }))
+  } catch (e) {
+    console.warn(e)
+  }
+
+  return ('lat' in position) && ('lng' in position) ? calculateSunriseAndSunset(date, position) : null
+}
+
+
+// get sunrise and sunset roughly, based on timezone
+export const getRoughSunriseAndSunset = date => calculateSunriseAndSunset(date, {
+  lat: 0,
+  lng: 15 * Math.abs(getOffset(date) - 1)
+})

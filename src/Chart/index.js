@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { getGraphData, getSunriseAndSunset } from '../debt.js'
+import { getGraphData, getSunriseAndSunset, getRoughSunriseAndSunset } from '../debt.js'
 import styles from './styles.module.css'
 import {
   AreaChart,
@@ -19,11 +19,13 @@ const chartMargin = {
 class Chart extends Component {
   constructor (props) {
     super (props)
-    
-    this.state = {}
+
+    this.state = getRoughSunriseAndSunset(this.props.date)
 
     getSunriseAndSunset(this.props.date).then(times => {
-      this.setState(times)
+      if (times) {
+        this.setState(times)
+      }
     })
   }
 
