@@ -12,6 +12,10 @@
   vertical-align: middle;
 }
 
+.large .pearl {
+  font-size: 36px;
+}
+
 .pearl {
   display: block;
   width: 100%;
@@ -21,6 +25,7 @@
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 40px;
+  cursor: pointer;
 }
 
 .inline .pearl {
@@ -28,6 +33,7 @@
   width: initial;
   height: initial;
   padding: 20px;
+  margin: 0;
 }
 
 .pearl:empty::after {

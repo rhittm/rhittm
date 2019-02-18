@@ -12,7 +12,7 @@ class Preset extends Component {
   }
 
   copy (e) {
-    const tags = e.target.innerHTML
+    const tags = e.target.dataset.content
     if (tags.length > 0) {
       const ghost = this.ghost.current
       ghost.value = tags
@@ -26,7 +26,8 @@ class Preset extends Component {
     return (
       <div className={ decide(styles, {
         root: true,
-        inline: this.props.inline
+        inline: this.props.inline,
+        large: this.props.title
       }) }>
         <Tooltip
           title="Copied!"
@@ -38,8 +39,13 @@ class Preset extends Component {
             onClick={ this.copy }
             ref={ this.button }
             data-empty={ this.props['data-empty'] || '+' }
+            data-content={ this.props.children }
+            style={{
+              backgroundColor: this.props.color,
+              borderColor: this.props.color
+            }}
           >
-            { this.props.children }
+            { this.props.title || this.props.children }
           </button>
           <textarea
             className={ styles.ghost }
