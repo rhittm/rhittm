@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import 'react-tippy/dist/tippy.css'
 import { Tooltip } from 'react-tippy'
 import styles from './styles.module.css'
 import decide from 'decider'
