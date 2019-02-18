@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "decider": "github:uyouthe/decider",
+    "emoji-mart": "^2.9.2",
     "modern-normalize": "^0.5.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
