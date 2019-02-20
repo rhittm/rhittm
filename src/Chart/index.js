@@ -66,7 +66,7 @@ class Chart extends Component {
           <ReferenceLine
             x={ this.props.date.getHours() }
             isFront={ true }
-            label="🐱"
+            label="🙂"
           />
         </AreaChart>
       </ResponsiveContainer>
