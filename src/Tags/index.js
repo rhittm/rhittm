@@ -24,6 +24,8 @@ class Tags extends Component {
   }
 
   render () {
+    let tags = this.state.tags.map(tag => ' #' + tag);
+    tags = String(tags).replace(/,/g,'');
     return (
       <div className={ styles.root }>
         <h2 className={ styles.heading}>Hashtags</h2>
@@ -36,7 +38,7 @@ class Tags extends Component {
         <Preset
           data-empty="Your hashtags will appear here. Tap to copy them."
         >
-          { this.state.tags.map(tag => '#' + tag + ' ') }
+          { tags }
         </Preset>
       </div>
     )
