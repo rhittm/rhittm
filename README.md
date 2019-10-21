@@ -1,4 +1,4 @@
-# 🎉 [Rhittm](https://rhittm.github.io) [![Become a patron](https://miloslav.website/patreon.svg)](https://www.patreon.com/uyouthe)
+# 🎉 [Rhittm](https://rhittm.github.io)
 
 Your Instagram posts are always on time! Rhittm provides popularity as a service.
 
